@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aQfngHaqqPtx31gNH+x4HPzARW/Q4RLodBJfuYmV0w8K2nwotjirEWt8mHQG9iCEv5/XqnQ3AIMbAfU8i0ZlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szykacz\\source\\repos\\PeopleStoreApp\\PeopleStoreApp.Web\\PeopleStoreApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szykacz\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\szykacz\\.nuget\\packages\\restease\\1.5.4\\restease.1.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

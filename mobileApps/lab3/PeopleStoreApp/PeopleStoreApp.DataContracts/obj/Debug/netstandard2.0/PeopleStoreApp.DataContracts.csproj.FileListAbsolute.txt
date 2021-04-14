@@ -1,0 +1,9 @@
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.deps.json
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.pdb
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.csprojAssemblyReference.cache
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.AssemblyInfoInputs.cache
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.AssemblyInfo.cs
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp.DataContracts\obj\Debug\netstandard2.0\PeopleStoreApp.DataContracts.pdb

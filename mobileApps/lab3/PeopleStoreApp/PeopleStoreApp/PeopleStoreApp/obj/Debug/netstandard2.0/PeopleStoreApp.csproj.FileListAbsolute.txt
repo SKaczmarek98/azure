@@ -1,0 +1,17 @@
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.deps.json
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\ref\PeopleStoreApp.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.pdb
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.csprojAssemblyReference.cache
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.AssemblyInfoInputs.cache
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.AssemblyInfo.cs
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\ref\PeopleStoreApp.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.pdb
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.dll
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\bin\Debug\netstandard2.0\PeopleStoreApp.DataContracts.pdb
+C:\Users\szykacz\source\repos\PeopleStoreApp\PeopleStoreApp\PeopleStoreApp\obj\Debug\netstandard2.0\PeopleStoreApp.csproj.CopyComplete
